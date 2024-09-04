@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message product_service {
+  int32 id = 1;
+  string content = 2;
+}
